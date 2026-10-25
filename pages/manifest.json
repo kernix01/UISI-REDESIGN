@@ -1,0 +1,347 @@
+{
+  "generated": [
+    {
+      "url": "https://www.uisi.ru/sveden/common",
+      "file": "sveden-common.html",
+      "title": "Основные сведения",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/news.php",
+      "file": "uisi-institute.html",
+      "title": "Новости института",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/science/index.php",
+      "file": "uisi-science.html",
+      "title": "Аспирантура",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library",
+      "file": "uisi-library.html",
+      "title": "О библиотеке",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/media",
+      "file": "uisi-media.html",
+      "title": "Фотогалерея",
+      "section": "media"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/struct",
+      "file": "sveden-struct.html",
+      "title": "Структура и органы управления образовательной организацией",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/document",
+      "file": "sveden-document.html",
+      "title": "Документы",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/education",
+      "file": "sveden-education.html",
+      "title": "Образование",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/eduStandarts",
+      "file": "sveden-edustandarts.html",
+      "title": "Федеральные ГОС стандарты",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/managers",
+      "file": "sveden-managers.html",
+      "title": "Руководство",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/employees",
+      "file": "sveden-employees.html",
+      "title": "Список сотрудников",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/objects",
+      "file": "sveden-objects.html",
+      "title": "Материально - техническое обеспечение и оснащенность образовательного процесса",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/grants",
+      "file": "sveden-grants.html",
+      "title": "Стипендии и меры поддержки обучающихся",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/paid_edu",
+      "file": "sveden-paid-edu.html",
+      "title": "Платные образовательные услуги",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/budget",
+      "file": "sveden-budget.html",
+      "title": "ФХД",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/vacant",
+      "file": "sveden-vacant.html",
+      "title": "Вакантные места для приема (перевода) обучающихся",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/inter",
+      "file": "sveden-inter.html",
+      "title": "Международное сотрудничество",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/sveden/catering",
+      "file": "sveden-catering.html",
+      "title": "Организация питания в образовательной организации",
+      "section": "sveden"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/histori.php",
+      "file": "uisi-institute-histori.html",
+      "title": "История",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/fakultets.php",
+      "file": "uisi-institute-fakultets.html",
+      "title": "Факультеты",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/cpk.php",
+      "file": "uisi-institute-cpk.html",
+      "title": "ГДПО",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/enoes.php",
+      "file": "uisi-institute-enoes.html",
+      "title": "Е-НОЭС",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/innovacionnoe%20obr.php",
+      "file": "uisi-institute-innovacionnoe-20obr.html",
+      "title": "Инновационное образование",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/med",
+      "file": "uisi-institute-med.html",
+      "title": "Информация для оцеки качества оказания услуг мед организациями",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/anticor",
+      "file": "uisi-institute-anticor.html",
+      "title": "Противодействие коррупции",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/psycholog.php",
+      "file": "uisi-institute-psycholog.html",
+      "title": "Психолог",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/institute/bpla/index.php",
+      "file": "uisi-institute-bpla.html",
+      "title": "Беспилотные системы",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/index.php",
+      "file": "uisi-library.html",
+      "title": "О библиотеке",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/Novosti/index.php",
+      "file": "uisi-library-novosti.html",
+      "title": "Новости библиотеки",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/Informac_res/resursy.php",
+      "file": "uisi-library-informac-res-resursy.html",
+      "title": "Информационные ресурсы:",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/eur",
+      "file": "uisi-library-eur.html",
+      "title": "О библиотеке",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/electronic%20resources/index.php",
+      "file": "uisi-library-electronic-20resources.html",
+      "title": "Электронные ресурсы удаленного доступа(подписные)",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/Poleznye_ssylki/ssylki.php",
+      "file": "uisi-library-poleznye-ssylki-ssylki.html",
+      "title": "Полезные ссылки",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/Nowye_postuplenija/main.php",
+      "file": "uisi-library-nowye-postuplenija-main.html",
+      "title": "Новые поступления",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/Informac_res/untitled.php",
+      "file": "uisi-library-informac-res-untitled.html",
+      "title": "Наша подписка",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/expositions/index.php",
+      "file": "uisi-library-expositions.html",
+      "title": "Выставки",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/V%20pomosh%20kursovomu%20i%20diplomnomu%20proektirovaniu",
+      "file": "uisi-library-v-20pomosh-20kursovomu-20i-20diplomnomu-20proektirovaniu.html",
+      "title": "Title",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/Prepodavateli/01.03.11.php",
+      "file": "uisi-library-prepodavateli-01-03-11.html",
+      "title": "Библиотека",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/Pravila/menu/index.php",
+      "file": "uisi-library-pravila-menu.html",
+      "title": "Документы библиотеки",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/vkr/index.php",
+      "file": "uisi-library-vkr.html",
+      "title": "Аннотации к ВКР",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/library/online_resources/online_res.php",
+      "file": "uisi-library-online-resources-online-res.html",
+      "title": "Онлайн-ресурсы для обеспечения дистанционного обучения",
+      "section": "library"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/abiturient",
+      "file": "uisi-abiturient.html",
+      "title": "Абитуриенту",
+      "section": "applicant"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/student",
+      "file": "uisi-student.html",
+      "title": "Объявления",
+      "section": "student"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/employents",
+      "file": "uisi-employents.html",
+      "title": "Информация для сотрудников",
+      "section": "staff"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/general/news.php",
+      "file": "uisi-general.html",
+      "title": "Новости института",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/general/contacts.php",
+      "file": "uisi-general-contacts.html",
+      "title": "Контакты",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/general/partners.php",
+      "file": "uisi-general-partners.html",
+      "title": "Наши партнеры",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/general/news.php?ELEMENT_ID=5974",
+      "file": "uisi-general-5974.html",
+      "title": "Волонтёры Победы: стань частью крутой команды!",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/general/news.php?ELEMENT_ID=5973",
+      "file": "uisi-general-5973.html",
+      "title": "Итоги выборов председателя Студенческого совета УрТИСИ СибГУТИ",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/general/news.php?ELEMENT_ID=5972",
+      "file": "uisi-general-5972.html",
+      "title": "Добро.рф — платформа для добрых дел",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/general/news.php?ELEMENT_ID=5971",
+      "file": "uisi-general-5971.html",
+      "title": "Стажировка преподавателей УрТИСИ в технопарке г. Калуга",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/general/news.php?ELEMENT_ID=5970",
+      "file": "uisi-general-5970.html",
+      "title": "Любовь в эпоху алгоритмов: психология свайпа",
+      "section": "institute"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/student/index.php?ELEMENT_ID=5886",
+      "file": "uisi-student-5886.html",
+      "title": "Курсы ВОЛС с 26.10.2026г",
+      "section": "student"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/student/index.php?ELEMENT_ID=5433",
+      "file": "uisi-student-5433.html",
+      "title": "Курсы ВОЛС с 26.01.2026г",
+      "section": "student"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/student/index.php?ELEMENT_ID=5288",
+      "file": "uisi-student-5288.html",
+      "title": "Курсы ВОЛС с 24.11.2025г",
+      "section": "student"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/student/index.php?ELEMENT_ID=5199",
+      "file": "uisi-student-5199.html",
+      "title": "Курсы ВОЛС с 22.09.2025г",
+      "section": "student"
+    },
+    {
+      "url": "https://www.uisi.ru/uisi/student/index.php?ELEMENT_ID=4846",
+      "file": "uisi-student-4846.html",
+      "title": "Курсы ВОЛС с 27.01.2025г",
+      "section": "student"
+    }
+  ],
+  "failures": []
+}
